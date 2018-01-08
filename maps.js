@@ -18,7 +18,6 @@ function copy(target) {
   }
 
 function convert(font, string) {
-    console.log('converting ' + font);
     let converted = [];
     // Break string into substrings
     let arr = string.split('');
@@ -54,7 +53,6 @@ $(document).ready(function () {
 
     $('.grid').on('click', function (event) {
         let target = event.target.innerHTML;
-        console.log(target);
         copy(target);
         event.target.innerHTML = '<span class="alert">Copied!</span>';
         setTimeout(() => {
