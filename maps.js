@@ -25,8 +25,8 @@ function convert(font, string) {
     arr.forEach(element => {
         let i = alpha.indexOf(element);
         if (i == -1) {
-            // Return as HTML code
-            converted.push(' ');
+            // Return as is
+            converted.push(element);
         } else {
             // Get relevant character from unicode var + index
             let unicode = font + i;
