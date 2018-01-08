@@ -53,7 +53,6 @@ function clearGrid() {
 $(document).ready(function () {
 
     $('.grid').on('click', function (event) {
-        console.log('click!');
         let target = event.target.innerHTML;
         console.log(target);
         copy(target);
@@ -63,8 +62,7 @@ $(document).ready(function () {
         }, 600);
     });
 
-    $('#convert').on('click', function (event) {
-        console.log('click!');
+    $('#string').on('input', function (event) {
         clearGrid();
         let string = document.querySelector('#string').value
         fonts.forEach(startingIndex => {
