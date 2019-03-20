@@ -1,4 +1,5 @@
-# uni-pretty: Turn boring plain text into pretty unicode characters.
+# fancy-unicode: Turn boring plain text into pretty Unicode characters.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d74f9973-6bc5-4a95-bbe2-85b12cd0adf2/deploy-status)](https://app.netlify.com/sites/fancy-unicode/deploys) __Deploying to [fancyunicode.com](https://fancyunicode.com/)!__
 
 Okay I'll level with you: I made this so I could have fun changing my Twitter name into neat looking fonts.
 
