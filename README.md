@@ -2,7 +2,7 @@
 
 Okay I'll level with you: I made this so I could have fun changing my Twitter name into neat looking fonts.
 
-**See the whole thing working here: [vickylai.com/uni-pretty](https://vickylai.com/uni-pretty)**
+**See the whole thing working here: [victoria.dev/uni-pretty](https://victoria.dev/uni-pretty)**
 
 ***
 
@@ -11,7 +11,7 @@ Okay I'll level with you: I made this so I could have fun changing my Twitter na
 ![Main page](/screenshot.png)
 
 ## License
-Copyright (C) 2018 Vicky Lai
+Copyright (C) 2018 Victoria Lai
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
