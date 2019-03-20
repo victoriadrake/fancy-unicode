@@ -2,16 +2,28 @@
 
 Okay I'll level with you: I made this so I could have fun changing my Twitter name into neat looking fonts.
 
-**See the whole thing working here: [victoria.dev/uni-pretty](https://victoria.dev/uni-pretty)**
-
-***
-
 ## Screenshot
 
 ![Main page](/screenshot.png)
 
+## Making changes
+
+Simon uses Sass as a CSS preprocessor. Here are the [installation instructions](https://sass-lang.com/install) and the [usage reference](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#using_sass).
+
+Watch changes to the Sass files with: 
+
+```
+sass --watch sass/min.sass:static/css/min.css
+```
+
+Compile the Sass files to compressed CSS with:
+
+```
+sass sass/min.sass:static/css/min.css --style compressed
+```
+
 ## License
-Copyright (C) 2018 Victoria Lai
+Copyright (C) 2018-2019 Victoria Lai
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
