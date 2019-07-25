@@ -24,7 +24,7 @@ sass sass/min.sass:static/css/min.css --style compressed
 ```
 
 ## License
-Copyright (C) 2018-2019 Victoria Lai
+Copyright (C) 2018-2019 Victoria Drake
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
