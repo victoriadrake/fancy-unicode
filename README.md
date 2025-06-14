@@ -1,5 +1,4 @@
 # fancy-unicode: Turn boring plain text into pretty Unicode characters.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d74f9973-6bc5-4a95-bbe2-85b12cd0adf2/deploy-status)](https://app.netlify.com/sites/fancy-unicode/deploys) __Deploying to [fancyunicode.com](https://fancyunicode.com/)!__
 
 Okay I'll level with you: I made this so I could have fun changing my Twitter name into neat looking fonts.
 
@@ -9,22 +8,22 @@ Okay I'll level with you: I made this so I could have fun changing my Twitter na
 
 ## Making changes
 
-Simon uses Sass as a CSS preprocessor. Here are the [installation instructions](https://sass-lang.com/install) and the [usage reference](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#using_sass).
+This page uses Sass as a CSS preprocessor. Here are the [installation instructions](https://sass-lang.com/install) and the [usage reference](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#using_sass).
 
 Watch changes to the Sass files with: 
 
-```
+```sh
 sass --watch sass/min.sass:static/css/min.css
 ```
 
 Compile the Sass files to compressed CSS with:
 
-```
+```sh
 sass sass/min.sass:static/css/min.css --style compressed
 ```
 
 ## License
-Copyright (C) 2018-2019 Victoria Drake
+Copyright (C) 2018-2025 Victoria Drake
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
