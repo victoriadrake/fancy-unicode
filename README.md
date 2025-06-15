@@ -13,13 +13,13 @@ This page uses Sass as a CSS preprocessor. Here are the [installation instructio
 Watch changes to the Sass files with: 
 
 ```sh
-sass --watch sass/min.sass:static/css/min.css
+sass --watch sass/min.sass:css/min.css
 ```
 
 Compile the Sass files to compressed CSS with:
 
 ```sh
-sass sass/min.sass:static/css/min.css --style compressed
+sass sass/min.sass:css/min.css --style compressed
 ```
 
 ## License
