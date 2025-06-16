@@ -1,5 +1,7 @@
 # fancy-unicode: Turn boring plain text into pretty Unicode characters.
 
+Read about [how a substitution cipher algorithm works here!](https://victoria.dev/archive/a-unicode-substitution-cipher-algorithm/)
+
 Okay I'll level with you: I made this so I could have fun changing my Twitter name into neat looking fonts.
 
 ## Screenshot
